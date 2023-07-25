@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Churn analysis for Banking Domain**
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
+- 🌱 I’m currently learning **Data Analysis with R Programming**
 
 - 💬 Ask me about **Power Query, Dynamic Array Functions, Storytelling with Charts, Multi-table Pivots & Power Pivot, SQL (Joins), Image Classification using Convolution Neural Network**
 
