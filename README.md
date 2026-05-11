@@ -29,9 +29,10 @@
 
 | Project | Tools | Link |
 |---|---|---|
-| 📦 Procurement Analytics Dashboard | Power BI · DAX · Power Query | [View](https://github.com/Saifool/procurement-analytics-powerbi) |
+| 📦 Supplier & Spend Performance Dashboard | Power BI · DAX · Power Query | [View](https://github.com/Saifool/procurement-analytics-powerbi) |
 | 🏥 NHS Scotland Capacity Planning | Tableau · Excel | [View](https://github.com/Saifool/nhs-scotland-capacity-planning) |
-| 📉 Customer Churn Analysis | Power BI · DAX | [View](https://github.com/Saifool/customer-churn-analysis-powerbi) |
+| 🚨 Hospital Emergency Room Performance | Tableau | [View](https://github.com/Saifool/er-performance-tableau) |
+| 📉 Customer Churn Analysis — Banking | Power BI · DAX | [View](https://github.com/Saifool/banking-churn-analysis-powerbi) |
 | 💉 Flu Shot Uptake Analysis | SQL · Tableau | [View](https://github.com/Saifool/flu-shot-uptake-sql-tableau) |
 | 🦠 COVID-19 Global Data Exploration | SQL | [View](https://github.com/Saifool/covid19-sql-exploration) |
 
